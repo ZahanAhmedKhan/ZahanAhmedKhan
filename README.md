@@ -39,9 +39,9 @@ const zahan = {
 
 | Project | What it is | Tech |
 |---------|------------|------|
+| [GTA Transit Tracker (GO Transit)](https://github.com/ZahanAhmedKhan/transit-tracker) | Tracks and Analyses the reliability of transit across GTA  | Python |
 | [Restaurant Receipt Pipeline](https://github.com/ZahanAhmedKhan/restaurant-receipt-pipeline) | Reads the receipts from the phone camera and uploads the content on an excel file | Python |
 | [Bluesky Live Trend Radar](https://github.com/ZahanAhmedKhan/bluesky-trend-radar) |  Real-time Bluesky trend detection with Kafka, Spark Streaming and Grafana. | Python |
-| [GTA Transit Tracker (GO Transit)](https://github.com/ZahanAhmedKhan/transit-tracker) | Tracks and Analyses the reliability of transit across GTA  | Python |
 <!-- PROJECTS:END -->
 
 ---
